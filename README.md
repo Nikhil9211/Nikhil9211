@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=45f3fe&lines=Hi+I'm+Nikhil;Web+Developer;UI+Designer)](https://git.io/typing-svg)
+## 👨‍💻 About Me
+- 🌐 Skilled in **Web Development** (Node.js, Express, Bootstrap)
+- ⚡ Passionate about building **interactive dashboards**
+- 🎨 Love blending **technical rigor with modern design**
+- 🚀 Always learning, debugging, and adapting
 
-
--  Hi, I’m Nikhil Kushwaha
--  I’m interested in Web Development, Software Development, Vulnerability, and many more....
--  I’m currently learning about how can be useful in someones life
--  I’m looking to collaborate on projects
--  How to reach me nikhilkushwahaguru@gmail.com
-
-<!---
-Nikhil/Nikhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
