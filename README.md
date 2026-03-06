@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Hi+I'm+Nikhil;Web+Developer;API+Integrator;UI+Designer)](https://git.io/typing-svg)
+
+
 -  Hi, I’m Nikhil Kushwaha
 -  I’m interested in Web Development, Software Development, Vulnerability, and many more....
 -  I’m currently learning about how can be useful in someones life
