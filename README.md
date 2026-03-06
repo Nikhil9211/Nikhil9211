@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=#45f3fe&lines=Hi+I'm+Nikhil;Web+Developer;UI+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=45f3fe&lines=Hi+I'm+Nikhil;Web+Developer;UI+Designer)](https://git.io/typing-svg)
 
 
 -  Hi, I’m Nikhil Kushwaha
