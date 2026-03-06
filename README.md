@@ -22,11 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil9211&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil9211&layout=compact&theme=radical)
-
 ---
 
 ## 🐍 Contribution Snake
