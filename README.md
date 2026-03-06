@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nikhil
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Full+Stack+Developer;API+Integrator;UI+Designer;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Web+Developer;UI+Designer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 ---
 
