@@ -30,7 +30,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/Nikhil19211/Nikhil19211/blob/output/github-snake-dark.svg)
+[![snake gif](https://github.com/Nikhil9211/Nikhil9211/blob/output/github-snake-dark.svg)]
 
 ---
 
