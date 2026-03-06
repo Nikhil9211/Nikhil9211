@@ -13,8 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil9211&show_icons=true&theme=radical)
 
-![Visitor Count](https://profile-counter.glitch.me/YOURUSERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Nikhil9211/count.svg)
 
-![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YOURUSERNAME/Nikhil9211/blob/output/github-contribution-grid-snake.svg)
