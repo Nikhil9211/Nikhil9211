@@ -35,4 +35,4 @@
 ---
 
 ## 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Nikhil9211/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Nikhil9211&color=blue)
