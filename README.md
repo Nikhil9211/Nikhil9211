@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌐 Skilled in **Web Development** (Node.js, Express, Bootstrap)
+- 🌐 Skilled in **Web Development** 
 - ⚡ Passionate about building **interactive dashboards**
 - 🎨 Love blending **technical rigor with modern design**
 - 🚀 Always learning, debugging, and adapting
